@@ -19,7 +19,7 @@ Apasionado de la ciberseguridad con un enfoque dedicado hacia la evolución prof
 - **Inglés:** Intermedio
 
 ## Experiencia Profesional
-### Consultor Hacking Junior
+### Penetration Tester
 **AddedValue** _(April 2024 – Presente)_
 - Realización de ejercicios de Pentesting y Red Teaming en CPDS críticos de la infraestructura de una importante organización en la administración pública.
 
